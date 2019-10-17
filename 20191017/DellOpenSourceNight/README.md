@@ -10,3 +10,4 @@ How would you explain what is open source to your friends?
 
 - Its eating the world
 
+- It is fun to experiment with!
