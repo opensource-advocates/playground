@@ -18,6 +18,7 @@ How would you explain what is open source to your friends?
 
 - Great! :)
 
+- Its the next big thing
 - hell no
 
 - It is just awesome
@@ -25,4 +26,3 @@ How would you explain what is open source to your friends?
 - Open Source is eating the world.
 
 -- It's exciting :D
-![Excited](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8OJW5kHYZuZu6hodtXS2VttL_F1_EunwpQ5BTF2h_57KC1-gh)
