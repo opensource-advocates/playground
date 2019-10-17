@@ -14,6 +14,8 @@ How would you explain what is open source to your friends?
 
 - It is fun to experiment with!
 
+- good
+
 - Great! :)
 
 - hell no
@@ -21,4 +23,3 @@ How would you explain what is open source to your friends?
 - It is just awesome
 
 - Open Source is eating the world.
-
