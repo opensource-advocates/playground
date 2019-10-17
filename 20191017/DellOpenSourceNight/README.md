@@ -16,5 +16,9 @@ How would you explain what is open source to your friends?
 
 - Great! :)
 
-- hello
+- hell no
+
+- It is just awesome
+
+- Open Source is eating the world.
 
