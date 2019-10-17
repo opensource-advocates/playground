@@ -11,3 +11,5 @@ How would you explain what is open source to your friends?
 - Its a big family
 
 - It is fun to experiment with!
+
+- It's a valuable source of learning!
