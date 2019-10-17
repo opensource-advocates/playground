@@ -8,5 +8,8 @@ How would you explain what is open source to your friends?
 
 - Its an Ocean!
 
-- Its a way to show our potential!
+- Its a big family
 
+- It is fun to experiment with!
+
+- Its a way to show our potential!
