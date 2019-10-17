@@ -8,12 +8,21 @@ How would you explain what is open source to your friends?
 
 - Its an Ocean!
 
-- Its Cool
+- It's cool
 
 - Its a big family
 
 - It is fun to experiment with!
 
+- good
+
 - Great! :)
 
 - Its the next big thing
+- hell no
+
+- It is just awesome
+
+- Open Source is eating the world.
+
+-- It's exciting :D
