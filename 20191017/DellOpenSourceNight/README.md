@@ -9,3 +9,7 @@ How would you explain what is open source to your friends?
 - Its an Ocean!
 
 - Its Cool
+
+- Its a big family
+
+- It is fun to experiment with!
