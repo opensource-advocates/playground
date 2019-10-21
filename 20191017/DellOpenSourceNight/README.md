@@ -8,6 +8,8 @@ How would you explain what is open source to your friends?
 
 - Its an Ocean!
 
+- Day to live...
+
 - Its open src night!
 
 - Its very cool!
