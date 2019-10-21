@@ -14,6 +14,8 @@ How would you explain what is open source to your friends?
 
 - It is fun to experiment with!
 
+- Its a way to show our potential!
+
 - good
 
 - Great! :)
