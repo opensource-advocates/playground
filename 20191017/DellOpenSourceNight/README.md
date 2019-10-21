@@ -10,6 +10,8 @@ How would you explain what is open source to your friends?
 
 - Its open src night!
 
+- Its very cool!
+
 - It's cool
 
 - Its a big family
