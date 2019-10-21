@@ -8,6 +8,8 @@ How would you explain what is open source to your friends?
 
 - Its an Ocean!
 
+- Its open src night!
+
 - It's cool
 
 - Its a big family
@@ -27,4 +29,4 @@ How would you explain what is open source to your friends?
 
 - Open Source is eating the world.
 
--- It's exciting :D
+- It's exciting :D
